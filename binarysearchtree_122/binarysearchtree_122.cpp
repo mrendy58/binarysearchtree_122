@@ -25,7 +25,7 @@ public :
 
     BinaryTree()
     {
-        
+        ROOT = NULL; // Initalizing ROOT to NULL
     }
 };
 int main()
